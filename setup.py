@@ -14,7 +14,7 @@ setup(
     long_description=__doc__,
     author='Justin Chen',
     author_email='songhuagao@gmail.com',
-    url='',
+    url='https://github.com/songhuagao/rest-bootstraptable-pagination',
     license='MIT',
     platforms='any',
     packages=find_packages(),
