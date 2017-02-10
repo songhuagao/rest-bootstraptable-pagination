@@ -9,7 +9,7 @@ Installation
 
 Install the latest version with pip:
 
-```bash
-$ pip rest_bootstraptable_pagination
+```
+pip install rest_bootstraptable_pagination
 ```
 
