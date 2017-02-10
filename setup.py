@@ -9,7 +9,7 @@ def read(filename):
 
 setup(
     name='rest_bootstraptable_pagination',
-    version='1.0.0',
+    version='1.0.1',
     description='Django RestFramework pagination For bootstrap-table.',
     long_description=__doc__,
     author='Justin Chen',
